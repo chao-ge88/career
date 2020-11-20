@@ -47,7 +47,7 @@ git  rmdir /s .git  （慎用删除仓库，如果在其他系统版本的话，
 ![下雪了](http://p1.itc.cn/q_70/images03/20201120/a87faa42ef5f4ecc8eca58c56e7913f0.jpeg)
 [下雪了](https://www.sohu.com/a/433064505_260616?spm=smpc.home.fspic.1.1605856056073gC2g9CQ&_f=index_focus_0)
 
-粗体和斜体以及删除线的表示：
+粗体和斜体以及删除线还有下划线的表示：
 
 两对※※包围为粗体 cuti  **cuti**   
 
@@ -55,13 +55,20 @@ git  rmdir /s .git  （慎用删除仓库，如果在其他系统版本的话，
 
 前后两个波浪线是删除线 ~~这是删除线~~
 
+文字颜色改变的表示：(等待补充)
+字体高亮：用一对==表示
+
+  =高亮=
+
 分割线的表示：三个*
 ***
+
 代码框和脚注的表示：
 
-两个`包裹代码就行是代码框  
+三个`上下包裹代码就行是代码框  
 
-`class Dog:
+```
+class Dog:
     """一次模拟小狗的简单尝试"""
     def __init__(self,name,age):
         """初始化属性name和age。"""
@@ -84,12 +91,14 @@ my_dog.sit()
 
 print(f"Your dog's name is {your_dog.name}.")
 print(f"Your dog is {your_dog.age} years old.")
-your_dog.roll_over()`
+your_dog.roll_over()
+```
  
 三个`前后包裹是脚注  ```这是脚注```
 
-顺序图的表示：```这个感觉有点难```
+顺序图的表示：（等待补充）```这个感觉有点难```
 
+流程图的表示：（等待补充）
 
 
 ### Scratch
