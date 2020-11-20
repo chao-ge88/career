@@ -1,5 +1,5 @@
 # Career
-我想学习并受用终身的几件事
+I want to learn some skills that can use it in my all life.
 ## Program
 ### Python
 ### Git and GitHub
